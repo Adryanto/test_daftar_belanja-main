@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "49101765732",
+    "firebase_url": "https://testing-af0c0-default-rtdb.firebaseio.com",
+    "project_id": "testing-af0c0",
+    "storage_bucket": "testing-af0c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49101765732:android:922f734af84273e4f0b371",
+        "android_client_info": {
+          "package_name": "com.example.test_daftar_belanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRqAcRZKAu9ZgKAcr-MO0aTy3E4UDssY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
